@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.jumbotron{
+    padding-top: 2rem;
+    background-color: rgb(204, 236, 247);
+}
+.row{
+    text-align: justify;
+}
+#education{
+    background-color: rgb(204, 236, 247);
+}
+body{
+   
+    font-family: 'Montserrat', sans-serif;
+}
+footer{
+    background-color: lightblue;
+}
+.grid img{
+    /* display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-items: center;
+    align-items: center; */
+    margin: 0 20px;
+}
